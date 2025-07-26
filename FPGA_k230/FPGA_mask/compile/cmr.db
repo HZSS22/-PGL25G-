@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tables>
+    <table id="compile_source_files" title="Design Files Read" column_number="2">
+        <column_headers>
+            <data>File Name</data>
+            <data>File Type</data>
+        </column_headers>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/rgb2gary.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/data_tailor.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/cmos_capture.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_cfg.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_dri.v</data>
+            <data>Verilog</data>
+        </row>
+        <row>
+            <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_slave.v</data>
+            <data>Verilog</data>
+        </row>
+    </table>
+    <table id="compile_runtime" title="Compile Runtime &amp; Memory" column_number="7">
+        <column_headers>
+            <data>Cpu Time</data>
+            <data>Process Cpu Time</data>
+            <data>Real Time</data>
+            <data>Peak Memory (MB)</data>
+            <data>Operation System</data>
+            <data>CPU</data>
+            <data>RAM(GB)</data>
+        </column_headers>
+        <row>
+            <data>0h:0m:2s</data>
+            <data>0h:0m:2s</data>
+            <data>0h:0m:7s</data>
+            <data>145</data>
+            <data>WINDOWS 10 x86_64</data>
+            <data>Unknown</data>
+            <data>31</data>
+        </row>
+    </table>
+    <table id="compile_messages" title="Compile Messages" column_number="1">
+        <column_headers/>
+        <row>
+            <data message="4">Enable Verilog2k features and keywords</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 1)] Analyzing module mask_top (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v(line number: 1)] Analyzing module cmos_data_top (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/rgb2gary.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/rgb2gary.v(line number: 1)] Analyzing module rgb2gray (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v(line number: 1)] Analyzing module dvp_tx (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/data_tailor.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/data_tailor.v(line number: 2)] Analyzing module cmos_tailor (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/cmos_capture.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/cmos_capture.v(line number: 2)] Analyzing module cmos_capture_data (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v(line number: 2)] Analyzing module ov7725_dri (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_cfg.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_cfg.v(line number: 2)] Analyzing module i2c_ov7725_rgb565_cfg (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_dri.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_dri.v(line number: 2)] Analyzing module i2c_dri (library work)</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0001: Analyzing file D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_slave.v</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0002: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_slave.v(line number: 1)] Analyzing module i2c_slave (library work)</data>
+        </row>
+        <row>
+            <data message="4">Module &quot;mask_top&quot; is set as top module.</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 1)] Elaborating module mask_top</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 27)] Elaborating instance u_i2c_slave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_slave.v(line number: 1)] Elaborating module i2c_slave</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 58)] Elaborating instance u_ov7725_dri</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v(line number: 2)] Elaborating module ov7725_dri</data>
+        </row>
+        <row>
+            <data message="4">Module instance {mask_top/u_ov7725_dri} parameter value:
+    SLAVE_ADDR = 7'b0100001
+    BIT_CTRL = 1'b0
+    CLK_FREQ = 26'b10111110101111000010000000
+    I2C_FREQ = 18'b111101000010010000</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v(line number: 29)] Elaborating instance u_i2c_cfg</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_cfg.v(line number: 2)] Elaborating module i2c_ov7725_rgb565_cfg</data>
+        </row>
+        <row>
+            <data message="4">Module instance {mask_top/u_ov7725_dri/u_i2c_cfg} parameter value:
+    REG_NUM = 7'b1000110</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v(line number: 45)] Elaborating instance u_i2c_dri</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/iic_dri.v(line number: 2)] Elaborating module i2c_dri</data>
+        </row>
+        <row>
+            <data message="4">Module instance {mask_top/u_ov7725_dri/u_i2c_dri} parameter value:
+    SLAVE_ADDR = 7'b0100001
+    CLK_FREQ = 26'b10111110101111000010000000
+    I2C_FREQ = 18'b111101000010010000</data>
+        </row>
+        <row>
+            <data message="5">Verilog-2019: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/7725_dri.v(line number: 39)] Width mismatch between port i2c_addr and signal bound to it for instantiated module i2c_dri</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 75)] Elaborating instance u_cmos_data_top</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v(line number: 1)] Elaborating module cmos_data_top</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v(line number: 35)] Elaborating instance u_cmos_tailor</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/data_tailor.v(line number: 2)] Elaborating module cmos_tailor</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v(line number: 53)] Elaborating instance u_cmos_capture_data</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/cmos_capture.v(line number: 2)] Elaborating module cmos_capture_data</data>
+        </row>
+        <row>
+            <data message="4">Module instance {mask_top/u_cmos_data_top/u_cmos_capture_data} parameter value:
+    WAIT_FRAME = 4'b1010</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v(line number: 66)] Elaborating instance u_rgb2gray</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/rgb2gary.v(line number: 1)] Elaborating module rgb2gray</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0004: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v(line number: 94)] Elaborating instance u_dvp_tx</data>
+        </row>
+        <row>
+            <data message="4">Verilog-0003: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v(line number: 1)] Elaborating module dvp_tx</data>
+        </row>
+        <row>
+            <data message="5">Sdm-2000: [D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v(line number: 37)] Removed register node u_dvp_tx/cnt[3] that is stuck at constant 0.</data>
+        </row>
+        <row>
+            <data message="4">FSM state_fsm[2:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM state_fsm[3:0] inferred.</data>
+        </row>
+        <row>
+            <data message="4">FSM cur_state_fsm[7:0] inferred.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N2 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N3 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N51 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N4 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N139 (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N109 (bmsWIDEINV).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N10[7] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N82[7] (bmsWIDEMUX).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N116 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="4">Constant propagation done on N115 (bmsREDAND).</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+        <row>
+            <data message="5">Loop was found during constant probe.</data>
+        </row>
+    </table>
+    <general_container id="compile_settings">
+        <table_container>
+            <table id="compile_settings" title="Compile Settings" column_number="2">
+                <column_headers>
+                    <data>Name</data>
+                    <data>Value</data>
+                </column_headers>
+                <row>
+                    <data>Part</data>
+                    <data>PGL25G-6MBG324</data>
+                </row>
+                <row>
+                    <data>Top Module</data>
+                    <data>mask_top</data>
+                </row>
+            </table>
+        </table_container>
+        <general_container align="3">
+            <table_container>
+                <data>Verilog</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>SystemVerilog</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Allow Duplicate Modules</data>
+                        <data>false</data>
+                    </row>
+                    <row>
+                        <data>Multiple File Compilation Unit</data>
+                        <data>true</data>
+                    </row>
+                    <row>
+                        <data>Include Path Order: 
+ (Relative to Verilog File)</data>
+                        <data>D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask	</data>
+                    </row>
+                    <row>
+                        <data>Parameters/Generics</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Compiler Directives</data>
+                        <data></data>
+                    </row>
+                    <row>
+                        <data>Loop Limit</data>
+                        <data>2000</data>
+                    </row>
+                </table>
+            </table_container>
+            <table_container>
+                <data>Options</data>
+                <table id="" title="" column_number="2">
+                    <column_headers>
+                        <data>Name</data>
+                        <data>Value</data>
+                    </column_headers>
+                    <row>
+                        <data>FSM Compiler</data>
+                        <data>auto</data>
+                    </row>
+                </table>
+            </table_container>
+        </general_container>
+    </general_container>
+</tables>

@@ -1,0 +1,17 @@
+
+Inputs and Outputs :
++-----------------------------------------------------------------------------------------+
+| Type       | File Name                                                                 
++-----------------------------------------------------------------------------------------+
+| Input      | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/mask_top.v           
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/camera_data.v        
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/rgb2gary.v           
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/dvp_sender.v         
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/data_tailor.v        
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/source/cmos_capture.v       
+| Output     | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/synthesize/snr.db           
+|            | D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask/synthesize/synplify.log     
++-----------------------------------------------------------------------------------------+
+
+
+Flow Command: synthesize -include_path {D:/FPGA/UARTINTEREARCTION/FPGA_k230/FPGA_mask} -selected_syn_tool_opt 1 -top_module mask_top
